@@ -1,0 +1,32 @@
+Lecture will start once all students are seated.
+All students have arrived and are seated.
+A hand was raised by Student 0 at second 2 of lecture.
+A question was asked by Student 0 at second 2 of lecture.
+A hand was raised by Student 3 at second 4 of lecture.
+A hand was raised by Student 1 at second 4 of lecture.
+A hand was raised by Student 2 at second 4 of lecture.
+A question was asked by Student 3 at second 4 of lecture.
+A question was asked by Student 1 at second 4 of lecture.
+A question was asked by Student 2 at second 4 of lecture.
+A hand was raised by Student 4 at second 5 of lecture.
+A hand was raised by Student 11 at second 5 of lecture.
+A question was asked by Student 4 at second 5 of lecture.
+A question was asked by Student 11 at second 5 of lecture.
+A hand was raised by Student 5 at second 6 of lecture.
+A question was asked by Student 5 at second 6 of lecture.
+A hand was raised by Student 9 at second 7 of lecture.
+A question was asked by Student 9 at second 7 of lecture.
+A hand was raised by Student 6 at second 10 of lecture.
+A hand was raised by Student 7 at second 10 of lecture.
+A hand was raised by Student 8 at second 10 of lecture.
+A question was asked by Student 6 at second 10 of lecture.
+A question was asked by Student 8 at second 10 of lecture.
+A question was asked by Student 7 at second 10 of lecture.
+A hand was raised by Student 13 at second 11 of lecture.
+A hand was raised by Student 10 at second 11 of lecture.
+A question was asked by Student 13 at second 11 of lecture.
+A question was asked by Student 10 at second 11 of lecture.
+A hand was raised by Student 14 at second 13 of lecture.
+A hand was raised by Student 12 at second 13 of lecture.
+A question was asked by Student 12 at second 13 of lecture.
+A question was asked by Student 14 at second 13 of lecture.

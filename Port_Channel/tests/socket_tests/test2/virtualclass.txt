@@ -1,0 +1,10 @@
+Lecture will start once all students are seated.
+All students have arrived and are seated.
+A hand was raised by Student 0 at second 12 of lecture.
+A hand was raised by Student 1 at second 12 of lecture.
+A hand was raised by Student 3 at second 12 of lecture.
+A hand was raised by Student 2 at second 12 of lecture.
+A question was asked by Student 2 at second 12 of lecture.
+A question was asked by Student 0 at second 12 of lecture.
+A question was asked by Student 3 at second 12 of lecture.
+A question was asked by Student 1 at second 12 of lecture.

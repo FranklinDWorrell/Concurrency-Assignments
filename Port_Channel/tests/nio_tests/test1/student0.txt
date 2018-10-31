@@ -1,0 +1,2 @@
+Student 0 here: 
+Today's lecture will contain 25 sentences.

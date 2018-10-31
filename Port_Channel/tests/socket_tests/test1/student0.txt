@@ -1,0 +1,37 @@
+Got a socket.
+Student 0 here: 
+Today's lecture will contain 25 sentences.
+Sentence 0 of lecture.
+Sentence 1 of lecture.
+Sentence 2 of lecture.
+Sentence 3 of lecture.
+Sentence 4 of lecture.
+Sentence 5 of lecture.
+Sentence 6 of lecture.
+Sentence 7 of lecture.
+Sentence 8 of lecture.
+Sentence 9 of lecture.
+Yes, Student 0, what is your question?
+Will this material appear on the exam?
+Student 0,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Sentence 10 of lecture.
+Sentence 11 of lecture.
+Sentence 12 of lecture.
+Sentence 13 of lecture.
+Sentence 14 of lecture.
+Sentence 15 of lecture.
+Sentence 16 of lecture.
+Sentence 17 of lecture.
+Sentence 18 of lecture.
+Sentence 19 of lecture.
+Yes, Student 1, what is your question?
+When was this piece first published?
+Student 1,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Sentence 20 of lecture.
+Sentence 21 of lecture.
+Sentence 22 of lecture.
+Sentence 23 of lecture.
+Sentence 24 of lecture.
+Class dismissed
+Class was dismissed. Student 0 leaving classroom.
+Walking out of classroom...

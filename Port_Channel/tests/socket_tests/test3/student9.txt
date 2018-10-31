@@ -1,0 +1,66 @@
+Got a socket.
+Student 9 here: 
+Today's lecture will contain 15 sentences.
+Sentence 0 of lecture.
+Sentence 1 of lecture.
+Yes, Student 0, what is your question?
+Who first had this idea?
+Student 0,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Sentence 2 of lecture.
+Sentence 3 of lecture.
+Yes, Student 3, what is your question?
+Who first had this idea?
+Student 3,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Yes, Student 2, what is your question?
+Would this piece be an appropriate paper topic?
+Student 2,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Yes, Student 1, what is your question?
+Who first had this idea?
+Student 1,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Sentence 4 of lecture.
+Yes, Student 4, what is your question?
+Will this material appear on the exam?
+Student 4,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Yes, Student 11, what is your question?
+Should we study the secondary literature on this piece?
+Student 11,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Sentence 5 of lecture.
+Yes, Student 5, what is your question?
+How did this piece influence later thinkers?
+Student 5,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Sentence 6 of lecture.
+Yes, Student 9, what is your question?
+Would this piece be an appropriate paper topic?
+Student 9,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Sentence 7 of lecture.
+Sentence 8 of lecture.
+Sentence 9 of lecture.
+Yes, Student 6, what is your question?
+What was the long-term significance of this piece?
+Student 6,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Yes, Student 7, what is your question?
+Would this piece be an appropriate paper topic?
+Student 7,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Yes, Student 8, what is your question?
+Where was the author living when the piece was written?
+Student 8,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Sentence 10 of lecture.
+Yes, Student 13, what is your question?
+Would this piece be an appropriate paper topic?
+Student 13,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Yes, Student 10, what is your question?
+Should we study the secondary literature on this piece?
+Student 10,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Sentence 11 of lecture.
+Sentence 12 of lecture.
+Yes, Student 14, what is your question?
+Will this material appear on the exam?
+Student 14,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Yes, Student 12, what is your question?
+When was this piece first published?
+Student 12,that is an excellent question. The answer will become apparent in the remaining lecture material. 
+Sentence 13 of lecture.
+Sentence 14 of lecture.
+Class dismissed
+Class was dismissed. Student 9 leaving classroom.
+Walking out of classroom...
